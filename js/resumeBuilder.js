@@ -39,7 +39,7 @@ var work = {
         "dates": "4.5 years",
         "location": "501 S 48th St, Suite 110, Tempe, AZ 85281",
         "description": "Teammate and leader on operations side of the commercial real estate data SAAS product. \
-                        Responsibilities included customer management, data fascilitation/design, social media \
+                        Responsibilities included customer management, data fascilitation, information design, social media \
                         graphic designer, and user advocate on the product design team. Main responsibility as \
                         customer manager honed my sentivity for the users interaction with site design, information \
                         architecture, data element utility."
